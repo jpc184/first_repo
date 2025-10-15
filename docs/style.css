@@ -13,10 +13,25 @@ p{
 p.noun{
     color:black;
 }
+.title{
+    font-weight: 700;
+    color: #DBCE14
+}
+p.title{
+    color:yellow;
+}
+span.warning{ 
+    color: green; 
+}
 img {
   border: 4px solid #000;
   border-radius: 8px;
   padding: 10px;
   width: 200px;
 
+}
+
+div {
+    background:lightblue;
+    padding: 10px;
 }
