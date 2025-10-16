@@ -11,7 +11,7 @@ p{
     color: #000000;
 }
 p.noun{
-    color:black;
+    color: black;
 }
 .title{
     font-weight: 700;
@@ -20,8 +20,8 @@ p.noun{
 p.title{
     color:yellow;
 }
-span.warning{ 
-    color: green; 
+span.Very_Good{ 
+    color: lightgreen; 
 }
 img {
   border: 4px solid #000;
@@ -32,6 +32,6 @@ img {
 }
 
 div {
-    background:lightblue;
+    background: darkgreen;
     padding: 10px;
 }
